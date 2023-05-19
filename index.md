@@ -31,5 +31,5 @@ Once in vim we have to change the index1 at the bottom to index2 to fix the fail
 ```
 
 **Updated Fixed Code In Vim:** 
-![Image](Vim2.png)
+![Image]
 
