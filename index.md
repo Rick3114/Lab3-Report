@@ -31,5 +31,9 @@ Once in vim we have to change the index1 at the bottom to index2 to fix the fail
 ```
 
 **Updated Fixed Code In Vim:** 
-![Image]
+![Image](Vim2.png)
+
+## Step 8: Succeeding Tests 
+To run the tests once more use the following commands: `bash <space> test.sh`.
+
 
