@@ -23,5 +23,10 @@ To run the test we must first enter the lab7 directory, to do this the following
 To fix the failing test we must edit `ListExamples.java` in `vim`, to do this inser these commands in the terminal: `vim <space> ListExamples.java`. 
 
 **Terminal View In Vim:** 
+![Image](Vim1.png)
 
+Once in vim we have to change the index1 at the bottom to index2 to fix the failing test. To do this follow the given commands:
+```
+</> <+> <enter> <n> <n> <n> <left> <left> <x> <i> <2> <esc> <:wq> <enter>
+```
 
