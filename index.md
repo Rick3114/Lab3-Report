@@ -1,4 +1,4 @@
-# Lab Report 3 
+# Lab Report 4 
 
 ## Step 4: Logging Into ieng6 Account: 
 To login into the ieng6 account you type the following into the terminal: `ssh <space> username@ieng6.ucsd.edu <enter>`. You will then be asked to put in your password so do as instructed: `password <enter>`. 
@@ -9,4 +9,10 @@ To login into the ieng6 account you type the following into the terminal: `ssh <
 ## Step 5: Cloning Fork: 
 For this step I am assuming that the fork of the repository from Github is copied onto your clipboard. On the terminal type in the following: `git <space> clone <space> <ctrl v> <enter>`. 
 
+**Terminal View:** \
+![Image](clone.png) \
+**If cloning for the first time it should show cloning instead of "lab7 already exsits"** 
+
+## Step 6: Running The Tests 
+To run the test we must first enter the lab7 directory, to do this the following must be put in the terminal: `cd <space> lab7/ <enter>`. Then to actually run the tests insert this command into the terminal: `bash <space> test.sh <enter>`. 
 
