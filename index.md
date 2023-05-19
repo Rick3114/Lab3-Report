@@ -16,3 +16,12 @@ For this step I am assuming that the fork of the repository from Github is copie
 ## Step 6: Running The Tests 
 To run the test we must first enter the lab7 directory, to do this the following must be put in the terminal: `cd <space> lab7/ <enter>`. Then to actually run the tests insert this command into the terminal: `bash <space> test.sh <enter>`. 
 
+**Terminal View:** 
+![Image](ListsTests.png)
+
+## Step 7: Fixing The Failing Tests
+To fix the failing test we must edit `ListExamples.java` in `vim`, to do this inser these commands in the terminal: `vim <space> ListExamples.java`. 
+
+**Terminal View In Vim:** 
+
+
