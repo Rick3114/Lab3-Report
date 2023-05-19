@@ -30,3 +30,6 @@ Once in vim we have to change the index1 at the bottom to index2 to fix the fail
 </> <+> <enter> <n> <n> <n> <left> <left> <x> <i> <2> <esc> <:wq> <enter>
 ```
 
+**Updated Fixed Code In Vim:** 
+![Image](Vim2.png)
+
