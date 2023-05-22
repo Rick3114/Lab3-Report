@@ -38,4 +38,15 @@ To run the tests once more use the following commands: `bash <space> test.sh`.
 ![Image](PassedTests.png) 
 
 ## Step 9: Commit and Push 
+
+**Commit:** \
 To save the changes done in vim to the repository we have to commit them. To do this first we must use `git <space> add <space> ListExamples.java <enter>` to update the change that will be committed to the file. Once this is done we commit using `git <space> commit <space> -m <space> "message of choice" <enter>`. 
+
+**Terminal View:** \
+![Image](Commit.png)
+
+**Push:** \
+Once commit is done the next step is to push the changes to the repository in GitHub. To do this we use the command `git <space> push <space> origin <space> main <enter>`. 
+
+**Terminal View:** \
+![Image](push.png)
