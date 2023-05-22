@@ -7,10 +7,10 @@ To login into the ieng6 account you type the following into the terminal: `ssh <
 ![Image](ieng6.png)
 
 ## Step 5: Cloning Fork: 
-For this step I am assuming that the fork of the repository from Github is copied onto your clipboard. On the terminal type in the following: `git <space> clone <space> <ctrl v> <enter>`. 
+For this step copy the `ssh link` from the GitHub repository onto your clipboard. On the terminal type in the following: `git <space> clone <space> <ctrl v> <enter>`. 
 
 **Terminal View:** \
-![Image](c) \
+![Image](sshclone.png) \
 **If cloning for the first time it should show cloning instead of "lab7 already exsits"** 
 
 ## Step 6: Running The Tests 
