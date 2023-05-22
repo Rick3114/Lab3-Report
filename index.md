@@ -8,7 +8,7 @@ To login into the ieng6 account you type the following into the terminal: `ssh <
 For this step copy the `ssh link` from the GitHub repository onto your clipboard. On the terminal type in the following: `git <space> clone <space> <ctrl v> <enter>`. 
 
 **Terminal View:** \
-![Image](sshclone.png) \
+![Image](sshclone.png) 
 
 ## Step 6: Running The Tests 
 To run the test we must first enter the lab7 directory, to do this the following must be put in the terminal: `cd <space> lab7/ <enter>`. Then to actually run the tests insert this command into the terminal: `bash <space> test.sh <enter>`. 
