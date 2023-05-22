@@ -50,3 +50,11 @@ Once commit is done the next step is to push the changes to the repository in Gi
 
 **Terminal View:** \
 ![Image](push.png)
+
+**Before Push:**  
+![Image](b4push1.png)
+![Image](b4push2.png)
+
+**After Push:**  
+![Image](afterpush1.png)
+![Image](afterpush2.png)
